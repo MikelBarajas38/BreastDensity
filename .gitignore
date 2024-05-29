@@ -5,3 +5,8 @@
 dataset/CBIS-DDSM
 dataset/img
 dataset/roi
+dataset/pp
+
+# models
+models/
+
