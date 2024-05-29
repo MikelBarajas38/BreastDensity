@@ -128,6 +128,13 @@ def test4():
         cv2.waitKey(0)
         cv2.destroyAllWindows()
 
+        clean_img = pp.clean_img(img)
+        clean_img2 = cv2.imread(f'pp/{ids[i]}.jpg', cv2.IMREAD_GRAYSCALE)
+
+        cv2.imshow('1', clean_img)
+        cv2.imshow('2', clean_img2)
+        cv2.waitKey(0)
+        cv2.destroyAllWindows()
 
 
 def main():

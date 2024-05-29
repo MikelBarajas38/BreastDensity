@@ -9,6 +9,7 @@ import multiprocessing
 import preprocessing as pp
 
 def process_image(image_path, id):
+    
     img = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
 
     if args.ROI:
@@ -17,6 +18,8 @@ def process_image(image_path, id):
     else:
         if args.CLAHE:
             img = pp.apply_clahe(img)
+        
+        img = pp.clean_img(img)
 
     cv2.imwrite(f'{args.out}/{id}.jpg', img)
 
@@ -29,16 +32,18 @@ def main():
 
     density_df = pd.read_csv('density_info.csv', sep=',')
 
-    id = density_df['id']
-    image_path = density_df['image_path']
+    ids = density_df['id']
+    image_paths = density_df['image_path']
+
+    args_list = list(zip(image_paths, ids))
 
     if args.multiprocessing:
         with multiprocessing.Pool() as pool:
-            pool.map(process_image, image_path)
+            pool.starmap(process_image, args_list)
     else:
-        for i in range(len(image_path)):
-            print(f'Processing image {i+1}/{len(image_path)}')
-            process_image(image_path[i], id[i])
+        for i in range(len(image_paths)):
+            print(f'Processing image {i+1}/{len(image_paths)}')
+            process_image(image_paths[i], ids[i])
     
     
 if __name__ == '__main__':
