@@ -1,0 +1,230 @@
+bitmask,features,k,accuracy,scores,timestamp
+3,"Index(['ASM_0', 'ASM_1', 'ASM_2', 'ASM_3', 'correlation_0', 'correlation_1',
+       'correlation_2', 'correlation_3'],
+      dtype='object')",59,0.7300796195287597,[0.68844985 0.71232877 0.75038052 0.7412481  0.75799087],2024-05-29 01:02:17.400403
+5,"Index(['ASM_0', 'ASM_1', 'ASM_2', 'ASM_3', 'dissimilarity_0',
+       'dissimilarity_1', 'dissimilarity_2', 'dissimilarity_3'],
+      dtype='object')",82,0.7230780974587445,[0.68844985 0.70471842 0.73972603 0.72450533 0.75799087],2024-05-29 01:04:55.849844
+6,"Index(['correlation_0', 'correlation_1', 'correlation_2', 'correlation_3',
+       'dissimilarity_0', 'dissimilarity_1', 'dissimilarity_2',
+       'dissimilarity_3'],
+      dtype='object')",108,0.7291668401548902,[0.68693009 0.70928463 0.73972603 0.73972603 0.77016743],2024-05-29 01:07:41.169068
+7,"Index(['ASM_0', 'ASM_1', 'ASM_2', 'ASM_3', 'correlation_0', 'correlation_1',
+       'correlation_2', 'correlation_3', 'dissimilarity_0', 'dissimilarity_1',
+       'dissimilarity_2', 'dissimilarity_3'],
+      dtype='object')",120,0.7297761307962416,[0.68541033 0.71232877 0.73820396 0.74581431 0.76712329],2024-05-29 01:10:47.289905
+9,"Index(['ASM_0', 'ASM_1', 'ASM_2', 'ASM_3', 'homogeneity_0', 'homogeneity_1',
+       'homogeneity_2', 'homogeneity_3'],
+      dtype='object')",69,0.7224674189116043,[0.69452888 0.70776256 0.72907154 0.74429224 0.73668189],2024-05-29 01:13:27.022417
+10,"Index(['correlation_0', 'correlation_1', 'correlation_2', 'correlation_3',
+       'homogeneity_0', 'homogeneity_1', 'homogeneity_2', 'homogeneity_3'],
+      dtype='object')",94,0.7285580121488019,[0.68693009 0.71537291 0.73820396 0.73972603 0.76255708],2024-05-29 01:16:14.686659
+11,"Index(['ASM_0', 'ASM_1', 'ASM_2', 'ASM_3', 'correlation_0', 'correlation_1',
+       'correlation_2', 'correlation_3', 'homogeneity_0', 'homogeneity_1',
+       'homogeneity_2', 'homogeneity_3'],
+      dtype='object')",160,0.7276433822338807,[0.69148936 0.70319635 0.74277017 0.74429224 0.7564688 ],2024-05-29 01:19:25.521408
+12,"Index(['dissimilarity_0', 'dissimilarity_1', 'dissimilarity_2',
+       'dissimilarity_3', 'homogeneity_0', 'homogeneity_1', 'homogeneity_2',
+       'homogeneity_3'],
+      dtype='object')",66,0.724295290835658,[0.6899696  0.70624049 0.73059361 0.73211568 0.76255708],2024-05-29 01:22:04.465838
+13,"Index(['ASM_0', 'ASM_1', 'ASM_2', 'ASM_3', 'dissimilarity_0',
+       'dissimilarity_1', 'dissimilarity_2', 'dissimilarity_3',
+       'homogeneity_0', 'homogeneity_1', 'homogeneity_2', 'homogeneity_3'],
+      dtype='object')",42,0.7273385055955736,[0.69300912 0.70319635 0.74885845 0.74277017 0.74885845],2024-05-29 01:25:06.903520
+14,"Index(['correlation_0', 'correlation_1', 'correlation_2', 'correlation_3',
+       'dissimilarity_0', 'dissimilarity_1', 'dissimilarity_2',
+       'dissimilarity_3', 'homogeneity_0', 'homogeneity_1', 'homogeneity_2',
+       'homogeneity_3'],
+      dtype='object')",63,0.7276438448691437,[0.6899696  0.72450533 0.73668189 0.73515982 0.75190259],2024-05-29 01:28:14.159299
+15,"Index(['ASM_0', 'ASM_1', 'ASM_2', 'ASM_3', 'correlation_0', 'correlation_1',
+       'correlation_2', 'correlation_3', 'dissimilarity_0', 'dissimilarity_1',
+       'dissimilarity_2', 'dissimilarity_3', 'homogeneity_0', 'homogeneity_1',
+       'homogeneity_2', 'homogeneity_3'],
+      dtype='object')",60,0.7300814700698117,[0.68237082 0.72450533 0.75038052 0.74277017 0.75038052],2024-05-29 01:30:32.738740
+17,"Index(['ASM_0', 'ASM_1', 'ASM_2', 'ASM_3', 'contrast_0', 'contrast_1',
+       'contrast_2', 'contrast_3'],
+      dtype='object')",96,0.7203397593371361,[0.68389058 0.69863014 0.7412481  0.73211568 0.74581431],2024-05-29 01:33:14.304775
+18,"Index(['correlation_0', 'correlation_1', 'correlation_2', 'correlation_3',
+       'contrast_0', 'contrast_1', 'contrast_2', 'contrast_3'],
+      dtype='object')",75,0.7282540607810208,[0.68541033 0.71232877 0.73972603 0.74733638 0.7564688 ],2024-05-29 01:35:59.829346
+19,"Index(['ASM_0', 'ASM_1', 'ASM_2', 'ASM_3', 'correlation_0', 'correlation_1',
+       'correlation_2', 'correlation_3', 'contrast_0', 'contrast_1',
+       'contrast_2', 'contrast_3'],
+      dtype='object')",63,0.7288619635165832,[0.68844985 0.71232877 0.73820396 0.73972603 0.76560122],2024-05-29 01:39:07.262067
+20,"Index(['dissimilarity_0', 'dissimilarity_1', 'dissimilarity_2',
+       'dissimilarity_3', 'contrast_0', 'contrast_1', 'contrast_2',
+       'contrast_3'],
+      dtype='object')",79,0.7215546395377349,[0.69300912 0.70167428 0.73059361 0.72298326 0.75951294],2024-05-29 01:41:41.507280
+21,"Index(['ASM_0', 'ASM_1', 'ASM_2', 'ASM_3', 'dissimilarity_0',
+       'dissimilarity_1', 'dissimilarity_2', 'dissimilarity_3', 'contrast_0',
+       'contrast_1', 'contrast_2', 'contrast_3'],
+      dtype='object')",84,0.7236855375590439,[0.69300912 0.69863014 0.74429224 0.72450533 0.75799087],2024-05-29 01:44:38.562703
+22,"Index(['correlation_0', 'correlation_1', 'correlation_2', 'correlation_3',
+       'dissimilarity_0', 'dissimilarity_1', 'dissimilarity_2',
+       'dissimilarity_3', 'contrast_0', 'contrast_1', 'contrast_2',
+       'contrast_3'],
+      dtype='object')",110,0.7267310654952742,[0.68844985 0.70167428 0.7412481  0.73515982 0.76712329],2024-05-29 01:47:40.976039
+23,"Index(['ASM_0', 'ASM_1', 'ASM_2', 'ASM_3', 'correlation_0', 'correlation_1',
+       'correlation_2', 'correlation_3', 'dissimilarity_0', 'dissimilarity_1',
+       'dissimilarity_2', 'dissimilarity_3', 'contrast_0', 'contrast_1',
+       'contrast_2', 'contrast_3'],
+      dtype='object')",48,0.7270345542277924,[0.69148936 0.72146119 0.74581431 0.73211568 0.74429224],2024-05-29 01:49:57.960727
+24,"Index(['homogeneity_0', 'homogeneity_1', 'homogeneity_2', 'homogeneity_3',
+       'contrast_0', 'contrast_1', 'contrast_2', 'contrast_3'],
+      dtype='object')",62,0.7273389682308365,[0.69148936 0.70471842 0.73515982 0.73668189 0.76864536],2024-05-29 01:52:38.837217
+25,"Index(['ASM_0', 'ASM_1', 'ASM_2', 'ASM_3', 'homogeneity_0', 'homogeneity_1',
+       'homogeneity_2', 'homogeneity_3', 'contrast_0', 'contrast_1',
+       'contrast_2', 'contrast_3'],
+      dtype='object')",73,0.7282503596989169,[0.69756839 0.7108067  0.73972603 0.7412481  0.75190259],2024-05-29 01:55:39.070272
+26,"Index(['correlation_0', 'correlation_1', 'correlation_2', 'correlation_3',
+       'homogeneity_0', 'homogeneity_1', 'homogeneity_2', 'homogeneity_3',
+       'contrast_0', 'contrast_1', 'contrast_2', 'contrast_3'],
+      dtype='object')",48,0.7279487215074507,[0.68844985 0.70776256 0.72907154 0.7412481  0.77321157],2024-05-29 01:58:46.357929
+27,"Index(['ASM_0', 'ASM_1', 'ASM_2', 'ASM_3', 'correlation_0', 'correlation_1',
+       'correlation_2', 'correlation_3', 'homogeneity_0', 'homogeneity_1',
+       'homogeneity_2', 'homogeneity_3', 'contrast_0', 'contrast_1',
+       'contrast_2', 'contrast_3'],
+      dtype='object')",46,0.7300759184466558,[0.7006079  0.71689498 0.73972603 0.73972603 0.75342466],2024-05-29 02:01:03.161385
+28,"Index(['dissimilarity_0', 'dissimilarity_1', 'dissimilarity_2',
+       'dissimilarity_3', 'homogeneity_0', 'homogeneity_1', 'homogeneity_2',
+       'homogeneity_3', 'contrast_0', 'contrast_1', 'contrast_2',
+       'contrast_3'],
+      dtype='object')",63,0.7242943655651322,[0.69300912 0.7108067  0.73211568 0.72146119 0.76407915],2024-05-29 02:04:00.179501
+29,"Index(['ASM_0', 'ASM_1', 'ASM_2', 'ASM_3', 'dissimilarity_0',
+       'dissimilarity_1', 'dissimilarity_2', 'dissimilarity_3',
+       'homogeneity_0', 'homogeneity_1', 'homogeneity_2', 'homogeneity_3',
+       'contrast_0', 'contrast_1', 'contrast_2', 'contrast_3'],
+      dtype='object')",27,0.7270377926746332,[0.68085106 0.71689498 0.75342466 0.7412481  0.74277017],2024-05-29 02:06:17.238964
+30,"Index(['correlation_0', 'correlation_1', 'correlation_2', 'correlation_3',
+       'dissimilarity_0', 'dissimilarity_1', 'dissimilarity_2',
+       'dissimilarity_3', 'homogeneity_0', 'homogeneity_1', 'homogeneity_2',
+       'homogeneity_3', 'contrast_0', 'contrast_1', 'contrast_2',
+       'contrast_3'],
+      dtype='object')",45,0.7294717167931974,[0.68541033 0.71537291 0.73515982 0.73820396 0.77321157],2024-05-29 02:08:35.048212
+31,"Index(['ASM_0', 'ASM_1', 'ASM_2', 'ASM_3', 'correlation_0', 'correlation_1',
+       'correlation_2', 'correlation_3', 'dissimilarity_0', 'dissimilarity_1',
+       'dissimilarity_2', 'dissimilarity_3', 'homogeneity_0', 'homogeneity_1',
+       'homogeneity_2', 'homogeneity_3', 'contrast_0', 'contrast_1',
+       'contrast_2', 'contrast_3'],
+      dtype='object')",38,0.7300768437171818,[0.69756839 0.72298326 0.7412481  0.73668189 0.75190259],2024-05-29 02:10:54.479745
+33,"Index(['ASM_0', 'ASM_1', 'ASM_2', 'ASM_3', 'entropy'], dtype='object')",58,0.7297775187020307,[0.68085106 0.73211568 0.73820396 0.74733638 0.75038052],2024-05-29 02:13:30.575372
+34,"Index(['correlation_0', 'correlation_1', 'correlation_2', 'correlation_3',
+       'entropy'],
+      dtype='object')",69,0.7264331283859118,[0.66717325 0.71993912 0.74429224 0.73972603 0.76103501],2024-05-29 02:16:08.184068
+35,"Index(['ASM_0', 'ASM_1', 'ASM_2', 'ASM_3', 'correlation_0', 'correlation_1',
+       'correlation_2', 'correlation_3', 'entropy'],
+      dtype='object')",70,0.7273431319482032,[0.67781155 0.72450533 0.74581431 0.73820396 0.75038052],2024-05-29 02:19:04.746058
+36,"Index(['dissimilarity_0', 'dissimilarity_1', 'dissimilarity_2',
+       'dissimilarity_3', 'entropy'],
+      dtype='object')",97,0.7282568365925987,[0.67629179 0.73363775 0.75494673 0.73668189 0.73972603],2024-05-29 02:21:47.021090
+37,"Index(['ASM_0', 'ASM_1', 'ASM_2', 'ASM_3', 'dissimilarity_0',
+       'dissimilarity_1', 'dissimilarity_2', 'dissimilarity_3', 'entropy'],
+      dtype='object')",81,0.7303844961670669,[0.68693009 0.73515982 0.74733638 0.73515982 0.74733638],2024-05-29 02:24:41.590868
+38,"Index(['correlation_0', 'correlation_1', 'correlation_2', 'correlation_3',
+       'dissimilarity_0', 'dissimilarity_1', 'dissimilarity_2',
+       'dissimilarity_3', 'entropy'],
+      dtype='object')",185,0.7264285020332819,[0.68237082 0.70776256 0.7412481  0.75190259 0.74885845],2024-05-29 02:27:40.170372
+39,"Index(['ASM_0', 'ASM_1', 'ASM_2', 'ASM_3', 'correlation_0', 'correlation_1',
+       'correlation_2', 'correlation_3', 'dissimilarity_0', 'dissimilarity_1',
+       'dissimilarity_2', 'dissimilarity_3', 'entropy'],
+      dtype='object')",88,0.7270373300393702,[0.68237082 0.72298326 0.7412481  0.73668189 0.75190259],2024-05-29 02:30:55.063817
+40,"Index(['homogeneity_0', 'homogeneity_1', 'homogeneity_2', 'homogeneity_3',
+       'entropy'],
+      dtype='object')",87,0.7294712541579343,[0.68693009 0.73363775 0.73972603 0.74277017 0.74429224],2024-05-29 02:33:33.745249
+41,"Index(['ASM_0', 'ASM_1', 'ASM_2', 'ASM_3', 'homogeneity_0', 'homogeneity_1',
+       'homogeneity_2', 'homogeneity_3', 'entropy'],
+      dtype='object')",105,0.7300786942582337,[0.69148936 0.73059361 0.73972603 0.74429224 0.74429224],2024-05-29 02:36:29.571465
+42,"Index(['correlation_0', 'correlation_1', 'correlation_2', 'correlation_3',
+       'homogeneity_0', 'homogeneity_1', 'homogeneity_2', 'homogeneity_3',
+       'entropy'],
+      dtype='object')",192,0.7285598626898538,[0.68085106 0.71385084 0.74429224 0.75494673 0.74885845],2024-05-29 02:39:28.843224
+43,"Index(['ASM_0', 'ASM_1', 'ASM_2', 'ASM_3', 'correlation_0', 'correlation_1',
+       'correlation_2', 'correlation_3', 'homogeneity_0', 'homogeneity_1',
+       'homogeneity_2', 'homogeneity_3', 'entropy'],
+      dtype='object')",186,0.7297765934315045,[0.68389058 0.71993912 0.74429224 0.75190259 0.74885845],2024-05-29 02:42:45.974620
+44,"Index(['dissimilarity_0', 'dissimilarity_1', 'dissimilarity_2',
+       'dissimilarity_3', 'homogeneity_0', 'homogeneity_1', 'homogeneity_2',
+       'homogeneity_3', 'entropy'],
+      dtype='object')",100,0.7270368674041071,[0.68389058 0.72450533 0.73972603 0.73820396 0.74885845],2024-05-29 02:45:46.732719
+45,"Index(['ASM_0', 'ASM_1', 'ASM_2', 'ASM_3', 'dissimilarity_0',
+       'dissimilarity_1', 'dissimilarity_2', 'dissimilarity_3',
+       'homogeneity_0', 'homogeneity_1', 'homogeneity_2', 'homogeneity_3',
+       'entropy'],
+      dtype='object')",81,0.728557549513539,[0.68844985 0.7260274  0.73820396 0.7412481  0.74885845],2024-05-29 02:49:01.012801
+46,"Index(['correlation_0', 'correlation_1', 'correlation_2', 'correlation_3',
+       'dissimilarity_0', 'dissimilarity_1', 'dissimilarity_2',
+       'dissimilarity_3', 'homogeneity_0', 'homogeneity_1', 'homogeneity_2',
+       'homogeneity_3', 'entropy'],
+      dtype='object')",199,0.7276456954101954,[0.68389058 0.71689498 0.73820396 0.75038052 0.74885845],2024-05-29 02:52:20.861574
+47,"Index(['ASM_0', 'ASM_1', 'ASM_2', 'ASM_3', 'correlation_0', 'correlation_1',
+       'correlation_2', 'correlation_3', 'dissimilarity_0', 'dissimilarity_1',
+       'dissimilarity_2', 'dissimilarity_3', 'homogeneity_0', 'homogeneity_1',
+       'homogeneity_2', 'homogeneity_3', 'entropy'],
+      dtype='object')",197,0.7270373300393702,[0.68237082 0.71232877 0.7412481  0.75190259 0.74733638],2024-05-29 02:54:40.683666
+48,"Index(['contrast_0', 'contrast_1', 'contrast_2', 'contrast_3', 'entropy'], dtype='object')",81,0.7258196740271938,[0.68237082 0.71993912 0.74733638 0.73363775 0.74581431],2024-05-29 02:57:22.600916
+49,"Index(['ASM_0', 'ASM_1', 'ASM_2', 'ASM_3', 'contrast_0', 'contrast_1',
+       'contrast_2', 'contrast_3', 'entropy'],
+      dtype='object')",69,0.7270354794983184,[0.68844985 0.72450533 0.74733638 0.72907154 0.74581431],2024-05-29 03:00:18.265381
+50,"Index(['correlation_0', 'correlation_1', 'correlation_2', 'correlation_3',
+       'contrast_0', 'contrast_1', 'contrast_2', 'contrast_3', 'entropy'],
+      dtype='object')",75,0.7261264012065528,[0.67477204 0.71232877 0.74885845 0.73668189 0.75799087],2024-05-29 03:03:15.896492
+51,"Index(['ASM_0', 'ASM_1', 'ASM_2', 'ASM_3', 'correlation_0', 'correlation_1',
+       'correlation_2', 'correlation_3', 'contrast_0', 'contrast_1',
+       'contrast_2', 'contrast_3', 'entropy'],
+      dtype='object')",82,0.7288642766928982,[0.68085106 0.71841705 0.75038052 0.73820396 0.7564688 ],2024-05-29 03:06:31.974090
+52,"Index(['dissimilarity_0', 'dissimilarity_1', 'dissimilarity_2',
+       'dissimilarity_3', 'contrast_0', 'contrast_1', 'contrast_2',
+       'contrast_3', 'entropy'],
+      dtype='object')",69,0.7255124842125718,[0.69148936 0.7108067  0.74733638 0.72754947 0.75038052],2024-05-29 03:09:30.465275
+53,"Index(['ASM_0', 'ASM_1', 'ASM_2', 'ASM_3', 'dissimilarity_0',
+       'dissimilarity_1', 'dissimilarity_2', 'dissimilarity_3', 'contrast_0',
+       'contrast_1', 'contrast_2', 'contrast_3', 'entropy'],
+      dtype='object')",67,0.7276429195986177,[0.69300912 0.72298326 0.74733638 0.72907154 0.74581431],2024-05-29 03:12:42.204801
+54,"Index(['correlation_0', 'correlation_1', 'correlation_2', 'correlation_3',
+       'dissimilarity_0', 'dissimilarity_1', 'dissimilarity_2',
+       'dissimilarity_3', 'contrast_0', 'contrast_1', 'contrast_2',
+       'contrast_3', 'entropy'],
+      dtype='object')",87,0.7261250133007638,[0.67933131 0.70624049 0.75038052 0.74277017 0.75190259],2024-05-29 03:15:58.204002
+55,"Index(['ASM_0', 'ASM_1', 'ASM_2', 'ASM_3', 'correlation_0', 'correlation_1',
+       'correlation_2', 'correlation_3', 'dissimilarity_0', 'dissimilarity_1',
+       'dissimilarity_2', 'dissimilarity_3', 'contrast_0', 'contrast_1',
+       'contrast_2', 'contrast_3', 'entropy'],
+      dtype='object')",86,0.728558474784065,[0.68541033 0.71385084 0.75190259 0.73820396 0.75342466],2024-05-29 03:18:15.295578
+56,"Index(['homogeneity_0', 'homogeneity_1', 'homogeneity_2', 'homogeneity_3',
+       'contrast_0', 'contrast_1', 'contrast_2', 'contrast_3', 'entropy'],
+      dtype='object')",108,0.726428039398019,[0.68389058 0.71993912 0.7412481  0.73515982 0.75190259],2024-05-29 03:21:20.055535
+57,"Index(['ASM_0', 'ASM_1', 'ASM_2', 'ASM_3', 'homogeneity_0', 'homogeneity_1',
+       'homogeneity_2', 'homogeneity_3', 'contrast_0', 'contrast_1',
+       'contrast_2', 'contrast_3', 'entropy'],
+      dtype='object')",88,0.7261236253949749,[0.68389058 0.72450533 0.73820396 0.73972603 0.74429224],2024-05-29 03:24:35.093120
+58,"Index(['correlation_0', 'correlation_1', 'correlation_2', 'correlation_3',
+       'homogeneity_0', 'homogeneity_1', 'homogeneity_2', 'homogeneity_3',
+       'contrast_0', 'contrast_1', 'contrast_2', 'contrast_3', 'entropy'],
+      dtype='object')",94,0.7264275767627559,[0.68541033 0.71841705 0.73515982 0.73972603 0.75342466],2024-05-29 03:27:53.429494
+59,"Index(['ASM_0', 'ASM_1', 'ASM_2', 'ASM_3', 'correlation_0', 'correlation_1',
+       'correlation_2', 'correlation_3', 'homogeneity_0', 'homogeneity_1',
+       'homogeneity_2', 'homogeneity_3', 'contrast_0', 'contrast_1',
+       'contrast_2', 'contrast_3', 'entropy'],
+      dtype='object')",195,0.7267319907658002,[0.68541033 0.71385084 0.7412481  0.74733638 0.74581431],2024-05-29 03:30:09.874932
+60,"Index(['dissimilarity_0', 'dissimilarity_1', 'dissimilarity_2',
+       'dissimilarity_3', 'homogeneity_0', 'homogeneity_1', 'homogeneity_2',
+       'homogeneity_3', 'contrast_0', 'contrast_1', 'contrast_2', 'contrast_3',
+       'entropy'],
+      dtype='object')",32,0.72612131221866,[0.69148936 0.73515982 0.73820396 0.73363775 0.73211568],2024-05-29 03:33:35.201543
+61,"Index(['ASM_0', 'ASM_1', 'ASM_2', 'ASM_3', 'dissimilarity_0',
+       'dissimilarity_1', 'dissimilarity_2', 'dissimilarity_3',
+       'homogeneity_0', 'homogeneity_1', 'homogeneity_2', 'homogeneity_3',
+       'contrast_0', 'contrast_1', 'contrast_2', 'contrast_3', 'entropy'],
+      dtype='object')",71,0.7288591877050051,[0.69756839 0.7260274  0.7412481  0.73972603 0.73972603],2024-05-29 03:35:53.157933
+62,"Index(['correlation_0', 'correlation_1', 'correlation_2', 'correlation_3',
+       'dissimilarity_0', 'dissimilarity_1', 'dissimilarity_2',
+       'dissimilarity_3', 'homogeneity_0', 'homogeneity_1', 'homogeneity_2',
+       'homogeneity_3', 'contrast_0', 'contrast_1', 'contrast_2', 'contrast_3',
+       'entropy'],
+      dtype='object')",47,0.7273385055955734,[0.69300912 0.72146119 0.74885845 0.72907154 0.74429224],2024-05-29 03:38:11.015360
+63,"Index(['ASM_0', 'ASM_1', 'ASM_2', 'ASM_3', 'correlation_0', 'correlation_1',
+       'correlation_2', 'correlation_3', 'dissimilarity_0', 'dissimilarity_1',
+       'dissimilarity_2', 'dissimilarity_3', 'homogeneity_0', 'homogeneity_1',
+       'homogeneity_2', 'homogeneity_3', 'contrast_0', 'contrast_1',
+       'contrast_2', 'contrast_3', 'entropy'],
+      dtype='object')",115,0.7279482588721877,[0.6899696  0.70928463 0.74277017 0.7412481  0.7564688 ],2024-05-29 03:40:30.033120

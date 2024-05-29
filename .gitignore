@@ -1,0 +1,7 @@
+# Normal guy stuff
+/env
+
+# dataset
+dataset/CBIS-DDSM
+dataset/img
+dataset/roi
